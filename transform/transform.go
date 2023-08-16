@@ -3,7 +3,7 @@ package transform
 var pzpzpz = map[byte]byte{
 	'a': '=',
 	'b': '2',
-	'c': 'x',
+	'c': '!',
 	'd': 'x',
 	'e': '?',
 	'f': '1',
@@ -38,7 +38,7 @@ var pzpzpz = map[byte]byte{
 	'I': '(',
 	'J': 'q',
 	'K': '/',
-	'L': 'l',
+	'L': 'y',
 	'M': 'M',
 	'N': 'N',
 	'O': ',',
